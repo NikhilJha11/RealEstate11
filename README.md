@@ -2,6 +2,9 @@
 # Data Analysis with Python
 
 This repository contains Python scripts and notebooks for data analysis, focusing on a concatenated dataset sourced from multiple origins. The main goal is to explore and understand the data better, utilizing various data analysis techniques.
+Link Feature Engineering & Clustering= "https://colab.research.google.com/drive/1Yd3u__-hJTWio3gd4rtkGR4PwhhmsTOE?usp=sharing"
+Link Feature Engineering & Clustering="https://colab.research.google.com/drive/1NvwR-r0zU9NNRWtGUzcZ9eNtVEjVsjg_?usp=sharing"
+Link Model Evaluation & Training = To be done Yet
 
 ## Overview
 
